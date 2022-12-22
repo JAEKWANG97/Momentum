@@ -1,4 +1,6 @@
-const API_KEY = "42a591b68b7e0e4451480223b42bc7a5";
+import gitigno
+
+
 
 function onGeoOk(position) {
   const lat = position.coords.latitude;
